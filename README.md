@@ -1,5 +1,5 @@
-Howdy 👋
-I'm a full-stack developer currently working at Click Here Labs 💻
+Howdy 👋 <br>
+I'm a full-stack developer currently working at Click Here Labs 💻 <br>
 I enjoy building creative full-stack applications with React ⚛
 
 
