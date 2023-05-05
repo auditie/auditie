@@ -1,3 +1,6 @@
+Howdy 👋
+I'm a full-stack developer currently working at Click Here Labs 💻
+I enjoy building creative full-stack applications with React ⚛
 
 
 
