@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @auditie
-- 👀 I’m interested in gaming, running, and biking
-- 🌱 I’m currently learning JavaScript
+
 
 
 <!---
